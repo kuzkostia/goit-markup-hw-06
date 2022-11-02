@@ -405,10 +405,6 @@ body {
   transition: border 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.form-field .modal-textarea:focus {
-  border: 1px solid var(--accent);
-}
-
 .form-field .modal-textarea::placeholder {
   font-family: "Roboto";
   font-style: normal;
