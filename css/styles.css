@@ -406,7 +406,7 @@ body {
 }
 
 .form-field .modal-textarea:focus {
-  border: 1px solid #2196f3;
+  border: 1px solid var(--accent);
 }
 
 .form-field .modal-textarea::placeholder {
